@@ -7,3 +7,4 @@ ps03-flavors/recipe2.gml
 ps03-flavors/flavors.tsv
 ps04-networks_from_text/CovidLockdownCatalonia.csv
 ps04-networks_from_text/CovidLockdownCatalonia-min-weight-filtered.csv
+ps04-networks_from_text/ps04.cys
